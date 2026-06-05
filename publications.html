@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Selected publications grouped by year with graphical abstracts and paper links." />
+  <meta name="keywords" content="publications, research papers, academic portfolio, scholar profile" />
+  <meta property="og:title" content="Yangyul Ju | Publications" />
+  <meta property="og:description" content="Selected publications grouped by year." />
+  <meta property="og:type" content="website" />
+  <meta property="og:image" content="assets/profile.jpg" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="Yangyul Ju | Publications" />
+  <meta name="twitter:description" content="Selected publications grouped by year." />
+  <title>Yangyul Ju | Publications</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body data-page="publications">
+  <header class="site-header">
+    <div class="site-shell nav-inner">
+      <a class="brand" href="index.html">Yangyul Ju</a>
+      <nav class="site-nav" aria-label="Primary">
+        <a href="index.html">About</a>
+        <a href="publications.html" aria-current="page">Publications</a>
+        <button id="themeToggle" class="theme-toggle" type="button" aria-label="Toggle night mode">☾</button>
+      </nav>
+    </div>
+  </header>
+
+  <main class="site-shell page-main publications-main">
+    <section class="section-header publications-header">
+      <h1>Publications</h1>
+      <div id="publicationTabs" class="publication-tabs" aria-label="Publication categories"></div>
+    </section>
+    <div id="publicationGroups" class="publication-groups" aria-live="polite"></div>
+  </main>
+
+  <script defer src="js/yymain.js"></script>
+</body>
+</html>

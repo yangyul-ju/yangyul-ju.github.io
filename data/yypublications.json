@@ -1,0 +1,128 @@
+[
+  {
+    "year": "2026",
+    "title": "Bio-Inspired DNA Bridging Networks for Mechanically Stable and High-Rate Silicon Anodes",
+    "authors": "Y, Ju., H, Yoon., H, Yoon., AQ, Shen*., & D, Lee.*",
+    "category": "first-author",
+    "journal": "(Under review) Advanced Materials",
+    "image": "assets/images/papers/placeholder.svg",
+    "paperLink": ""
+  },
+  {
+    "year": "2026",
+    "title": "Engineering Mechanically Adaptive Nanonetworks for Long-Life and High-Capacity Silicon Anode Batteries",
+    "authors": "Y, Ju., Y, Song., Y, Han., MS, Abdelgawad., Y, Kim., AQ, Shen*., & D, Lee.*",
+    "category": "first-author",
+    "journal": "(In press/Accepted) Carbon Energy",
+    "image": "assets/images/papers/paper-2026-02.jpg",
+    "paperLink": ""
+  },
+  {
+    "year": "2026",
+    "title": "Highly Porous and Viscoelastic Polyacrylonitrile Carbon Nanofiber Membrane with Interconnected Network of Resorcinol-Formaldehyde Carbon Aerogels",
+    "authors": "B, Youn., J, Jeong., Y, Han., Y, Ju., KY, Cho*., & D, Lee.*",
+    "category": "co-author",
+    "journal": "Fibers and Polymers 1875-0052",
+    "image": "assets/images/papers/paper-2026-1-fibers and polymers.jpg",
+    "paperLink": "https://link.springer.com/article/10.1007/s12221-026-01352-5"
+  },
+  {
+    "year": "2025",
+    "title": "Silicon anode with CB/SWCNT conductive network that minimizes surface defects for high areal capacity",
+    "authors": "G, Kim., M, Kim., Y, Ju., & D, Lee.*",
+    "category": "co-author",
+    "journal": "Carbon 247, 120947",
+    "image": "assets/images/papers/paper-2025-2-carbon.jpg",
+    "paperLink": "https://www.sciencedirect.com/science/article/abs/pii/S0008622325009637P"
+  },
+  {
+    "year": "2025",
+    "title": "Poly (m-phenylene isophthalamide)-graphene oxide composite separators: A pathway to safer and high-performance lithium-ion batteries",
+    "authors": "H, Kim., E, Jeon., Y, Ju., J, Chun., & D, Lee.*",
+    "category": "co-author",
+    "journal": "Polymer Testing 151, 108930",
+    "image": "assets/images/papers/paper-2025-3-polymer testing.jpg",
+    "paperLink": "https://www.sciencedirect.com/science/article/pii/S0142941825002442"
+  },
+  {
+    "year": "2025",
+    "title": "Towards dendrite-free lithium-ion batteries: A comprehensive review of functional separator technologies",
+    "authors": "Y, Ju., B, Kim., B, Youn., Y, Song., H, Jang., & D, Lee.*",
+    "category": "first-author",
+    "journal": "Journal of Energy Storage 127, 116957",
+    "image": "assets/images/papers/paper-2025-4-journal of energy storage.jpg",
+    "paperLink": "https://www.sciencedirect.com/science/article/abs/pii/S2352152X25016706"
+  },
+  {
+    "year": "2025",
+    "title": "Engineering Polyethylene Separators With Graphene Oxide-Polyhedral Oligomeric Silsesquioxane Nanocomposites for Enhanced Thermal Resilience and Electrochemical Performance",
+    "authors": "Y, Ju., G, Park., Y, Song., J, Chun*., & D, Lee.*",
+    "category": "first-author",
+    "journal": "International Journal of Energy Research 15, 8876732",
+    "image": "assets/images/papers/paper-2025-5-international journal of energy research.jpg",
+    "paperLink": "https://onlinelibrary.wiley.com/doi/full/10.1155/er/8876732"
+  },
+  {
+    "year": "2024",
+    "title": "Electrospun polyvinylidene fluoride membranes: Waterproofing and acoustic performance for air and acoustic vents in electronics",
+    "authors": "Y, Youn., Y, Ju., D, Lee.*., JS, Youm., YM, So., SH, Lee., C, Kim., YA, Kim.*",
+    "category": "co-author",
+    "journal": "ACS Nano 18, 24532-24540",
+    "image": "assets/images/papers/paper-2024-6-acs nano.jpg",
+    "paperLink": "https://pubs.acs.org/doi/abs/10.1021/acsnano.4c08750"
+  },
+  {
+    "year": "2023",
+    "title": "Designing highly packed silicon anode slurries for high capacity and prolonged lifespan of lithium-ion batteries",
+    "authors": "Y, Song., BY, Song., B, Kim., Y, Ju., IS, Jang., J, Chun*., & D, Lee.*",
+    "category": "co-author",
+    "journal": "Chemical Engineering Journal 474, 145606",
+    "image": "assets/images/papers/paper-2023-7-chemical engineering.jpg",
+    "paperLink": "https://www.sciencedirect.com/science/article/abs/pii/S1385894723043371"
+  },
+  {
+    "year": "2023",
+    "title": "Polycrystalline nanograin formation in uniform-sized silicon carbide fibers derived from aluminum-containing polycarbosilane",
+    "authors": "Y, Song., YJ, Joo., Y, Ju., B, Youn., DG, Shin., KY, Cho*., & D, Lee.*",
+    "category": "co-author",
+    "journal": "Fibers and Polymers",
+    "image": "assets/images/papers/paper-2023-8-fibers and polymers.jpg",
+    "paperLink": "https://link.springer.com/article/10.1007/s12221-023-00307-4"
+  },
+  {
+    "year": "2021",
+    "title": "Revealing the enhanced structural recovery and gelation mechanisms of cation-induced cellulose nanofibrils composite hydrogels",
+    "authors": "Y, Ju., J, Ha., Y, Song., & D, Lee.*",
+    "category": "first-author",
+    "journal": "Carbohydrate Polymers 272, 118515",
+    "image": "assets/images/papers/paper-2021-9-carbohydrate polymers.jpg",
+    "paperLink": "https://www.sciencedirect.com/science/article/abs/pii/S0144861721009024"
+  },
+  {
+    "year": "2021",
+    "title": "Prediction of enhanced interfacial bonding strength for basalt fiber/epoxy composites by micromechanical and thermomechanical analyses",
+    "authors": "SY, Mun., J, Ha., S, Lee., Y, Ju., HM, Lim*., & D, Lee.*",
+    "category": "co-author",
+    "journal": "Composites Part A: Applied Science and Manufacturing 142, 106208",
+    "image": "assets/images/papers/paper-2021-10-composite part a.jpg",
+    "paperLink": "https://www.sciencedirect.com/science/article/abs/pii/S1359835X20304450"
+  },
+  {
+    "year": "2020",
+    "title": "Optimizing the printability and dispersibility of functionalized zirconium oxide/acrylate composites with various nano-to micro-particle ratios",
+    "authors": "Y, Ju., J, Ha., Y, Song., JS, Yun*., & D, Lee.*",
+    "category": "first-author",
+    "journal": "Ceramics International 46 (17), 26903-26910",
+    "image": "assets/images/papers/paper-2020-11-ceramics international.jpg",
+    "paperLink": "https://www.sciencedirect.com/science/article/abs/pii/S0272884220321817"
+  },
+  {
+    "year": "2020",
+    "title": "Revealing the flame retardancy mechanism of highly transparent cellulose nanopapers fabricated by vacuum filtration assisted layer-by-layer deposition",
+    "authors": "S, Lee., D, Seong., Y, Ju., HW, Kwak., WS, Kim*., & D, Lee.*",
+    "category": "co-author",
+    "journal": "Carbohydrate Polymers 246, 116628",
+    "image": "assets/images/papers/paper-2020-12-carbohydrate polymers.jpg",
+    "paperLink": "https://www.sciencedirect.com/science/article/abs/pii/S014486172030802X"
+  }
+]

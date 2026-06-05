@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Academic personal website for Yangyul Ju." />
+  <meta name="keywords" content="academic website, researcher portfolio, publications, profile" />
+  <meta property="og:title" content="Yangyul Ju | Academic Portfolio" />
+  <meta property="og:description" content="Academic personal website with publications and research profile." />
+  <meta property="og:type" content="website" />
+  <meta property="og:image" content="assets/profile.jpg" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="Yangyul Ju | Academic Portfolio" />
+  <meta name="twitter:description" content="Academic personal website with publications and research profile." />
+  <title>Yangyul Ju | About</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body data-page="about">
+  <header class="site-header">
+    <div class="site-shell nav-inner">
+      <a class="brand" href="index.html">Yangyul Ju</a>
+      <nav class="site-nav" aria-label="Primary">
+        <a href="index.html" aria-current="page">About</a>
+        <a href="publications.html">Publications</a>
+        <button id="themeToggle" class="theme-toggle" type="button" aria-label="Toggle night mode">☾</button>
+      </nav>
+    </div>
+  </header>
+
+  <main class="site-shell page-main about-main">
+    <section class="about-layout" aria-label="About profile">
+      <aside class="profile-column">
+        <div class="profile-photo-wrap">
+          <img id="profilePhoto" class="profile-photo" src="assets/profile.jpg" alt="Portrait of Yangyul Ju" />
+        </div>
+        <div class="contact-card">
+          <h2>Contact</h2>
+          <div id="contactLinks" class="contact-links"></div>
+        </div>
+      </aside>
+
+      <div class="content-column">
+        <header class="profile-header">
+          <h1 id="profileName" class="profile-name">Yangyul Ju</h1>
+          <p id="profilePosition" class="profile-position">Ph.D, Polymer Science &amp; Engineering</p>
+        </header>
+
+        <div class="section-divider" aria-hidden="true"></div>
+
+        <section class="text-section">
+          <div id="bioIntro" class="bio-copy">
+            <p>I am a results-driven Polymer Engineering researcher specializing in complex fluid rheology and advanced multiphysics modeling.</p>
+          </div>
+          <ul id="bioHighlights" class="bio-highlights"></ul>
+        </section>
+
+        <section id="expertiseSection" class="text-section">
+          <div class="section-rule" aria-hidden="true"></div>
+          <h2>Research Interests &amp; Expertise</h2>
+          <p id="researchKeywords" class="research-keywords"></p>
+          <div id="expertiseGroups" class="expertise-groups"></div>
+        </section>
+
+        <section id="collaborationSection" class="text-section collaboration-section">
+          <div class="section-rule" aria-hidden="true"></div>
+          <h2>International Collaboration Experience</h2>
+          <div id="collaborationList" class="collaboration-list"></div>
+        </section>
+      </div>
+    </section>
+  </main>
+
+  <script defer src="js/yymain.js"></script>
+</body>
+</html>

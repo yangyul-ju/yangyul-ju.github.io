@@ -1,0 +1,72 @@
+{
+  "name": "Yangyul Ju",
+  "position": "Ph.D, Polymer Science & Engineering",
+  "email": "yyul5430@jnu.ac.kr",
+  "phone": "+82-10-5430-9605",
+  "linkedin": "https://www.linkedin.com/",
+  "scholar": "https://scholar.google.co.kr/citations?user=7J1F2KwAAAAJ&hl=ko",
+  "orcid": "https://orcid.org/0009-0009-9068-5173",
+  "bioIntro": [
+    "I am a results-driven Polymer Engineering researcher specializing in <strong>complex fluid rheology</strong> and <strong>advanced multiphysics modeling</strong>. My research establishes critical structure-property-performance relationships across a diverse spectrum of advanced materials systems.",
+    "By bridging experimental complex fluid mechanics with multi-scale computational frameworks, I deliver targeted structural and interfacial engineering solutions across battery materials, dispersion systems, and soft matter."
+  ],
+  "researchKeywords": [
+    "Complex Fluid Rheology",
+    "Energy Materials",
+    "Multiphysics Modeling"
+  ],
+  "bioHighlights": [
+    "<strong>Silicon Anode Slurries for Lithium-Ion Batteries:</strong> Optimizing multi-component battery pastes to accommodate lithiation-induced volume expansion and ensure long-term cyclability.",
+    "<strong>SWCNT Dispersions:</strong> Tailoring dispersion kinetics and formulation to construct highly interconnected, resilient electrical and mechanical percolation networks.",
+    "<strong>Surface-Modified Separators for Lithium-Ion Batteries:</strong> Engineering functional coatings (e.g., GO-POSS) to accelerate Li+ transport kinetics, enhance thermal safety, and suppress lithium dendrite growth.",
+    "<strong>Hydrogels & Suspensions:</strong> Elucidating micro/nano-scale particle interactions, structural gelation recovery, and non-linear viscoelastic properties for diversified advanced polymer composites."
+  ],
+  "expertise": [
+    {
+      "title": "1. COMSOL Multiphysics",
+      "bold": true,
+      "bullets": [
+        "Electro-chemo-mechanical coupling (diffusion-induced stress in silicon anodes)",
+        "Acoustic-structure interaction (sound transmission in membranes)",
+        "Thermal management (heat transfer in heterogeneous composites)"
+      ]
+    },
+    {
+      "title": "2. MATLAB Programming",
+      "bold": true,
+      "bullets": [
+        "Electrical percolation modeling to validate experimental findings on interparticle interactions and network dynamics"
+      ]
+    },
+    {
+      "title": "3. Rheology & Material Characterizations",
+      "bold": true,
+      "bullets": [
+        "<strong>Advanced Rheology (LAOS/SPP)</strong>: Quantified non-linear viscoelasticity, shear deformation, and structural recovery mechanisms of silicon anode slurries, SWCNT dispersions, and composite hydrogels.",
+        "<strong>Electrochemical Diagnostics</strong>: Deconvoluted dynamic bulk, SEI, and charge-transfer resistance parameters across multi-component battery systems utilizing operational EIS, CV, and GITT setups.",
+        "<strong>Interfacial & Surface Science</strong>: Tuned binder chemistry and hybrid polymer composite coatings to suppress lithiation-induced volume expansion and mitigate lithium dendrite growth."
+      ]
+    }
+  ],
+  "collaborations": [
+    {
+      "title": "Visiting Research Intern Fellow",
+      "institution": "Micro/Bio/Nanofluidics Unit (PI: Amy Shen)",
+      "dateRange": "Jan 2025 - Mar 2025",
+      "achievements": [
+        "Investigated bio-inspired DNA bridging networks via systematic binder modification for high-capacity silicon anodes, elucidating the correlation between polymer-particle interactions and macro-scale rheological network properties.",
+        "Resulting Manuscript: Under review in <strong>Advanced Materials (2026)</strong>"
+      ]
+    },
+    {
+      "title": "Visiting Research Intern Fellow",
+      "institution": "Micro/Bio/Nanofluidics Unit (PI: Amy Shen)",
+      "dateRange": "Sep 2023 - Jan 2024",
+      "achievements": [
+        "Evaluated the synergistic effects of different binder chemistries (CMC, PVP) and micro-silicon particle sizes on the stability and multi-component network dynamics of SWCNT-dispersed anode slurries.",
+        "Integrated experimental findings with COMSOL Multiphysics to simulate, model, and validate the structural, interfacial, and rheological characteristics of the complex energy pastes.",
+        "Resulting Publication: Accepted in <strong>Carbon Energy (2026)</strong>"
+      ]
+    }
+  ]
+}

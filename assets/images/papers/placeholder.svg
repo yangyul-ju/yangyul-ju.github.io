@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+  <title id="title">Publication placeholder</title>
+  <desc id="desc">Neutral placeholder image for missing publication thumbnails.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f1f5f9" />
+      <stop offset="100%" stop-color="#e2e8f0" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="675" rx="36" fill="url(#bg)" />
+  <g fill="none" stroke="#94a3b8" stroke-width="18" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="220" y="150" width="760" height="375" rx="28" />
+    <path d="M290 450l140-145 120 120 80-85 150 150" />
+    <circle cx="450" cy="270" r="48" />
+  </g>
+  <text x="600" y="590" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="44" fill="#64748b">
+    Image unavailable
+  </text>
+</svg>
